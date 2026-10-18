@@ -74,7 +74,7 @@ if (unos == null || unos.trim() == "") {
         brojDana = 2;
     } else if (danUnos == "srijeda") {
         brojDana = 3;
-    } else if (danUnos == "četvrtak") {
+    } else if (danUnos == "četvrtak" || danUnos == "cetvrtak") {
         brojDana = 4;
     } else if (danUnos == "petak") {
         brojDana = 5;
